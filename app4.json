@@ -1,7 +1,7 @@
 {
   "iron": {
-    "Banner_active": false,
-    "inter_active": false,
+    "Banner_active": true,
+    "inter_active": true,
     "reward_active": false,
     "appkey": "15ed3e64d"
   },
@@ -16,7 +16,7 @@
     "native": "451506216739862_453503996540084"
   },
   "admob": {
-    "Banner_active": true,
+    "Banner_active": false,
     "inter_active": true,
     "reward_active": false,
     "native_active": true,
