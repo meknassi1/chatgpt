@@ -1,0 +1,42 @@
+{
+  "iron": {
+    "Banner_active": false,
+    "inter_active": false,
+    "reward_active": false,
+    "appkey": "15ed3e64d"
+  },
+  "facebook": {
+    "Banner_active": false,
+    "inter_active": false,
+    "reward_active": false,
+    "native_active": false,
+    "banner": "451506216739862_453503866540097",
+    "interstitial": "451506216739862_453503919873425",
+    "reward": "VID_HD_9_16_39S_LINK#1900151973661764_1900152443661717",
+    "native": "451506216739862_453503996540084"
+  },
+  "admob": {
+    "Banner_active": true,
+    "inter_active": true,
+    "reward_active": false,
+    "native_active": true,
+    "banner": "ca-app-pub-3940256099942544\/6300978111",
+    "reward_admob": "ca-app-pub-3940256099942544\/52243549175",
+    "interstitial": "ca-app-pub-3940256099942544\/1033173712",
+    "native": "ca-app-pub-3940256099942544\/2247696110"
+  },
+  "unity": {
+    "Banner_active": false,
+    "inter_active": false,
+    "reward_active": true,
+    "key": "4757157",
+    "banner": "Banner_Android",
+    "interstitial": "Interstitial_Android"
+  },
+  "webview": {
+    "active": true,
+    "message": "Watch a video ad for 15 min of ad-free experience. Support our app!",
+    "timeToShowReward": 10000,
+    "url": "https:\/\/poki.com\/en\/scary"
+  }
+}
