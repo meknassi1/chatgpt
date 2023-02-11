@@ -1,0 +1,30 @@
+{
+  "iron": {
+    "Banner_active": false,
+    "inter_active": true,
+    "appkey": "15ed3e64d"
+  },
+  "facebook": {
+    "Banner_active": false,
+    "inter_active": false,
+    "native_active": true,
+    "banner": "451506216739862_453503866540097",
+    "interstitial": "451506216739862_453503919873425",
+    "native": "451506216739862_453503996540084"
+  },
+  "admob": {
+    "Banner_active": true,
+    "inter_active": true,
+    "native_active": true,
+    "banner": "ca-app-pub-3940256099942544/6300978111",
+    "interstitial": "ca-app-pub-3940256099942544/1033173712",
+    "native": "ca-app-pub-3940256099942544/2247696110"
+  },
+  "unity": {
+    "Banner_active": false,
+    "inter_active": false,
+    "key": "4757157",
+    "banner": "Banner_Android",
+    "interstitial": "Interstitial_Android"
+  }
+}
