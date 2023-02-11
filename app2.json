@@ -1,13 +1,13 @@
 {
   "iron": {
     "Banner_active": false,
-    "inter_active": true,
+    "inter_active": false,
     "appkey": "15ed3e64d"
   },
   "facebook": {
     "Banner_active": false,
     "inter_active": false,
-    "native_active": true,
+    "native_active": false,
     "banner": "451506216739862_453503866540097",
     "interstitial": "451506216739862_453503919873425",
     "native": "451506216739862_453503996540084"
