@@ -22,7 +22,7 @@
   },
   "unity": {
     "Banner_active": false,
-    "inter_active": true,
+    "inter_active": false,
     "key": "4757157",
     "banner": "Banner_Android",
     "interstitial": "Interstitial_Android"
